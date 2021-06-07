@@ -2,7 +2,7 @@ import selectors from '../../redux/selectors/selectors';
 import operations from '../../redux/operations/operations';
 import routes from '../../routes';
 import styles from './Login.module.css';
-import { Route, NavLink } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import { useState } from 'react';
 import { useDispatch } from 'react-redux';
 
